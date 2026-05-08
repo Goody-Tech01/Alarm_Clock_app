@@ -14,6 +14,9 @@ A simple GUI alarm clock built with Python.
 - customtkinter
 - pygame
 
+  ## Preview
+![Alarm Clock](Alarm Clock.png)
+
 ## Installation
 pip install -r requirements.txt
 
