@@ -15,7 +15,7 @@ A simple GUI alarm clock built with Python.
 - pygame
 
   ## Preview
-![Alarm Clock](Alarm Clock.png)
+![Alarm Clock](alarm_clock.png)
 
 ## Installation
 pip install -r requirements.txt
